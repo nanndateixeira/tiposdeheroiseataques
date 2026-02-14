@@ -1,0 +1,20 @@
+class tipoDeAtaqueHeroi {
+constructor (classeHeroi, tipoAtaque) {
+  this.classeHeroi = classeHeroi
+  this.tipoAtaque = tipoAtaque
+}
+
+atacar() {
+  console.log(`O ${this.classeHeroi} atacou usando ${this.tipoAtaque}`);
+}
+}
+
+const mago = new tipoDeAtaqueHeroi ("mago", "magia")
+const guerreiro = new tipoDeAtaqueHeroi ("guerreiro", "espada")
+const monge = new tipoDeAtaqueHeroi ("monge","artes marciais")
+const ninja = new tipoDeAtaqueHeroi ("ninja","shuriken" )
+
+mago.atacar()
+guerreiro.atacar()
+monge.atacar()
+ninja.atacar()
