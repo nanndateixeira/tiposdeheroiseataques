@@ -1,8 +1,8 @@
-🦸 Sistema de Ataque de Heróis
+## 🦸 Sistema de Ataque de Heróis
 
 Este projeto é uma aplicação simples em JavaScript que demonstra conceitos básicos de Programação Orientada a Objetos (POO) através da criação de heróis com diferentes tipos de ataque.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 O objetivo do programa é representar diferentes classes de heróis e exibir no console o tipo de ataque utilizado por cada um.
 
@@ -14,7 +14,7 @@ Um tipo de ataque (ex: magia, espada)
 
 Um método responsável por executar o ataque
 
-⚔️ Heróis Disponíveis
+## ⚔️ Heróis Disponíveis
 
 O sistema atualmente contempla:
 
@@ -26,7 +26,7 @@ O sistema atualmente contempla:
 
 🥷 Ninja — utiliza shuriken
 
-🛠️ Conceitos Aplicados
+## 🛠️ Conceitos Aplicados
 
 Programação Orientada a Objetos
 
@@ -38,12 +38,12 @@ Métodos
 
 Organização e reutilização de código
 
-▶️ Execução
+## ▶️ Execução
 
 O programa pode ser executado utilizando Node.js no terminal.
 Ao rodar o arquivo, o sistema exibirá no console a ação de ataque de cada herói.
 
-📌 Resultado Esperado
+## 📌 Resultado Esperado
 
 Ao executar, o console exibirá mensagens informando qual herói atacou e qual tipo de ataque foi utilizado.
 
